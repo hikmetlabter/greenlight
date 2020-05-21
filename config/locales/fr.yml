@@ -224,19 +224,19 @@ fr:
       help: "Si vous pensez que c'est une erreur, veuillez contacter votre administrateur système."
   expired_reset_token: Le lien de réinitialisation du mot de passe a expiré !
   features:
-    title: "Fonctionnalités "
-    rooms: "Salons Personnalisés "
+    title: Fonctionnalités
+    rooms: Durée de la conférence illimitée
     recordings: Gestion des enregistrements
-    designs: Designs personnalisés
-    authentication: Authentification d'utilisateur
+    designs: Tableau blanc, partage de pdf et fichiers…
+    authentication: Authentification des utilisateurs
   footer:
-    powered_by: "Alimenté par %{href}."
+    powered_by: "Powered by Labter Hikmet 2020"
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
     submit: Soumettre
   go_back: Retour
-  greenlight: Greenlight
+  greenlight: Dz-cours
   header:
     all_recordings: Tous les enregistrements
     dropdown:
@@ -260,9 +260,9 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
-    video: Regardez notre tutoriel sur l'utilisation de Greenlight
+    about: "Bienvenu sur la première plateforme de Visio conférence en Algérie, vous pouvez aussi visiter %{href} notre plateforme de cours et de formations en ligne, pour louer un espace pour vos vidéos conférences veuillez nous contactez au : +213 675 162 099 ou par e-mail à admin@viziodz.com. "
+    welcome: Bienvenue chez VizioDz.
+    video: Visitez aussi notre plateforme DzCours nous proposons des formations et des cours en ligne.
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
